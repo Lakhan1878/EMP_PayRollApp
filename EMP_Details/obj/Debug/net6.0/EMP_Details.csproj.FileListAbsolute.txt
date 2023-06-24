@@ -1,0 +1,15 @@
+C:\Users\lakha\source\repos\EMP_Details\bin\Debug\net6.0\EMP_Details.exe
+C:\Users\lakha\source\repos\EMP_Details\bin\Debug\net6.0\EMP_Details.deps.json
+C:\Users\lakha\source\repos\EMP_Details\bin\Debug\net6.0\EMP_Details.runtimeconfig.json
+C:\Users\lakha\source\repos\EMP_Details\bin\Debug\net6.0\EMP_Details.dll
+C:\Users\lakha\source\repos\EMP_Details\bin\Debug\net6.0\EMP_Details.pdb
+C:\Users\lakha\source\repos\EMP_Details\obj\Debug\net6.0\EMP_Details.csproj.AssemblyReference.cache
+C:\Users\lakha\source\repos\EMP_Details\obj\Debug\net6.0\EMP_Details.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakha\source\repos\EMP_Details\obj\Debug\net6.0\EMP_Details.AssemblyInfoInputs.cache
+C:\Users\lakha\source\repos\EMP_Details\obj\Debug\net6.0\EMP_Details.AssemblyInfo.cs
+C:\Users\lakha\source\repos\EMP_Details\obj\Debug\net6.0\EMP_Details.csproj.CoreCompileInputs.cache
+C:\Users\lakha\source\repos\EMP_Details\obj\Debug\net6.0\EMP_Details.dll
+C:\Users\lakha\source\repos\EMP_Details\obj\Debug\net6.0\refint\EMP_Details.dll
+C:\Users\lakha\source\repos\EMP_Details\obj\Debug\net6.0\EMP_Details.pdb
+C:\Users\lakha\source\repos\EMP_Details\obj\Debug\net6.0\EMP_Details.genruntimeconfig.cache
+C:\Users\lakha\source\repos\EMP_Details\obj\Debug\net6.0\ref\EMP_Details.dll
